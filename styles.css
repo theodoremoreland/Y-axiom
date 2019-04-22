@@ -1,0 +1,77 @@
+#navbarNavDropdown {
+    margin-left: 76%;
+  }
+
+.row {
+  margin-top: 3%;
+}
+  
+#summary {
+  font-weight: lighter;
+  font-size: 135%;
+
+}
+
+h1 {
+  text-align: center;
+  color: cornflowerblue;
+}
+
+  #visualizations {
+    column-count: 2;
+    column-gap: 0px;
+  }
+
+
+
+.navbar-brand {
+  text-decoration-style: double;
+  font: linear-gradient(-90deg, red, yellow);
+}
+
+img:hover {
+  padding: 1%;
+  border: inset;
+  border-color: cornflowerblue;
+}
+
+.caption {
+  margin-top: 10%;
+  font-size: 150%;
+  font-weight: lighter;
+}
+
+#comparisons {
+    column-count: 2;
+    column-gap: 0px;
+  }
+
+@media (max-width: 480px) {
+  #comparisons {
+    column-count: 1;
+    column-gap: 0px;
+  }
+
+  #comparisons2 {
+    column-count: 1;
+    column-gap: 0px;
+  }
+
+}
+
+
+/*   #fig1 {
+  }
+
+  #fig2 {
+
+  }
+
+  #fig3 {
+
+  }
+
+  #fig4 {
+
+  } */
+  
