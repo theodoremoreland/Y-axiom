@@ -22,6 +22,11 @@ h1 {
     column-gap: 0px;
   }
 
+  #comparisons {
+    column-count: 2;
+    column-gap: 0px;
+  }
+
 
   .descriptions {
     column-count: 2;
@@ -40,24 +45,16 @@ img:hover {
   border-color: cornflowerblue;
 }
 
-.caption {
+ .caption {
   margin-top: 10%;
   font-size: 150%;
   font-weight: lighter;
 }
 
-#comparisons {
-    column-count: 2;
-    column-gap: 0px;
-  }
+
 
 @media (max-width: 480px) {
   #comparisons {
-    column-count: 1;
-    column-gap: 0px;
-  }
-
-  #comparisons2 {
     column-count: 1;
     column-gap: 0px;
   }
