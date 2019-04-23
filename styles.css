@@ -23,6 +23,11 @@ h1 {
   }
 
 
+  .descriptions {
+    column-count: 2;
+  }
+
+
 
 .navbar-brand {
   text-decoration-style: double;
@@ -57,21 +62,10 @@ img:hover {
     column-gap: 0px;
   }
 
+  .descriptions {
+    column-count: 1;
+  }
+
 }
 
-
-/*   #fig1 {
-  }
-
-  #fig2 {
-
-  }
-
-  #fig3 {
-
-  }
-
-  #fig4 {
-
-  } */
   
