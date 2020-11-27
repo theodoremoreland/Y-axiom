@@ -7,6 +7,8 @@ the latitudinal relationships of temperature, cloudiness, humidity, and wind spe
 This dashboard features each of the four illustrations with supplemental explanations, as well as a table featuring
 all of the data used to conduct the analysis (note: the data table has not been kept up-to-date). Below is a preview of the dashboard.
 
+*This was a homework assignment for Washington Univeristy's Data Analytics Boot Camp (2019)*
+
 # Home Screen
 <img src="presentation/5.PNG" width="900">
 
